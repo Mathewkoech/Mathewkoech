@@ -10,7 +10,7 @@ I enjoy solving complex challenges and constantly learning and adapting to new t
 
 ## 🚀 Current Project: ERP SaaS
 
-I’m proud to be working on a live **ERP system** that has been serving users for **over two years**. The app is built to streamline business processes and is sold as a **SaaS** product with a subscription model.
+Currently working on a live **ERP system** that has been serving users for **over two years**. The app is built to streamline business processes and is sold as a **SaaS** product with a subscription model.
 
 - 🏢 **Active users**: Businesses rely on the system for critical daily operations.
 - 📈 **SaaS model**: Subscription-based platform, offering scalable solutions to various industries.
@@ -37,7 +37,7 @@ I'm always open to discussing new opportunities, collaborations, and projects. W
 
 ## 🌟 Portfolio
 
-You can check out my portfolio at [**mathewkoech.com**]([https://mathewkoech.com](https://mathewkoech-portfolio.vercel.app/)) where I showcase my latest projects and achievements. Feel free to explore and reach out for any collaboration or project inquiries!
+You can check out my portfolio at [**mathewkoech.com**](https://mathewkoech-portfolio.vercel.app/) where I showcase my latest projects and achievements. Feel free to explore and reach out for any collaboration or project inquiries!
 
 ## 💻 Tech Stack
 
